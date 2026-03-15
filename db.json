@@ -1,0 +1,591 @@
+[
+  {
+    "id": "PAY-001",
+    "feature_title": "Misyon",
+    "category": "Şirket Kimliği",
+    "content": "b2bmasterdemo B2B tahsilat platformu olarak misyonumuz, işletmelerin tüm ödeme ve tahsilat süreçlerini basit, şeffaf ve yönetilebilir hale getirmektir. Toptancı, distribütör, bayi ağı, dernek, site yönetimi veya abonelik tabanlı iş modeli fark etmeksizin her ölçekte işletmeye banka seviyesinde güvenlik, fintech hızında esneklik ve sade bir kullanıcı deneyimi sunmayı amaçlıyoruz.\n\nBizim için tahsilat; sadece bir ödeme hareketi değil, işletmenin nakit akışını, büyümesini ve müşteri ilişkilerini doğrudan etkileyen stratejik bir süreçtir. Bu nedenle misyonumuz; komisyon maliyetlerini düşüren, operasyonel yükü azaltan, manuel hataları ortadan kaldıran ve tüm süreci tek panelden görünür kılan bir altyapı sunmaktır.\n\nUzun vadede hedefimiz, işletmelerin tahsilat tarafında hiçbir teknik detay, entegrasyon, güvenlik veya mevzuat endişesi olmadan, sadece kendi işlerine odaklanabildiği; geriye kalan tüm tahsilat altyapısının bizim tarafımızdan yönetildiği bir standart oluşturmaktır.",
+    "technical_details": "Odak: B2B tahsilat süreçleri, Çoklu sektör desteği (toptancı, distribütör, bayi, dernek, site yönetimi, abonelik), Basit arayüz, Gelişmiş altyapı, Komisyon ve maliyet optimizasyonu",
+    "tags": [
+      "misyon",
+      "b2b tahsilat",
+      "nakit akışı",
+      "operasyonel verimlilik",
+      "müşteri odaklılık"
+    ],
+    "benefit_score": 0.99
+  },
+  {
+    "id": "PAY-002",
+    "feature_title": "Vizyon",
+    "category": "Şirket Kimliği",
+    "content": "Vizyonumuz, Türkiye’de ve bölgesel pazarlarda B2B tahsilat denildiğinde akla gelen ilk güvenilir altyapı olmak; bankalar, fintech’ler ve kurumsal işletmeler arasında köprü görevi gören, standartları belirleyen bir platforma dönüşmektir.\n\nb2bmasterdemo yaklaşımımızla; farklı sanal POS sağlayıcıları, ödeme kuruluşları ve bankaları tek bir çatı altında birleştirerek, işletmelere provider bağımsız, özgür ve esnek bir tahsilat ekosistemi sunmayı hedefliyoruz. İşletmeler, kendi iş modellerine en uygun komisyon yapısını, ödeme akışlarını ve entegrasyon senaryolarını tek tıkla seçebildikleri bir geleceğe ulaşsın istiyoruz.\n\nUzun vadede; yapay zeka destekli risk skorlama, akıllı tahsilat yönlendirmesi, otomatik finansal planlama ve nakit akışı tahmini gibi gelişmiş yeteneklerle, yalnızca tahsilatı değil; tüm finansal operasyonu yöneten bir orkestrasyon katmanı sunmayı amaçlıyoruz.",
+    "technical_details": "Hedef: Bölgesel liderlik, Çoklu ödeme sağlayıcı ekosistemi, Provider bağımsız altyapı, AI destekli finansal karar mekanizmaları, Standart belirleyici platform olma",
+    "tags": [
+      "vizyon",
+      "fintech",
+      "b2b ödeme ekosistemi",
+      "provider bağımsız",
+      "gelecek planı"
+    ],
+    "benefit_score": 0.97
+  },
+  {
+    "id": "PAY-003",
+    "feature_title": "Marka Konumlandırması",
+    "category": "Konumlandırma",
+    "content": "b2bmasterdemo platformu, kendini klasik banka altyapısı ile karmaşık fintech çözümlerinin arasında, \"kurumsal ölçekte güçlü ama KOBİ’ler için yeterince sade\" bir çözüm olarak konumlandırır.\n\n- Konum: B2B online tahsilat altyapısı\n- Hedef kitle: Toptancılar, distribütörler, bayilik ağları, franchise yapıları, dernek ve site yönetimleri, periyodik tahsilat yapan işletmeler, SaaS ve abonelik bazlı şirketler\n- Temel vaad: Komisyon maliyetlerini düşüren, operasyonel yükü azaltan, veri güvenliğini garanti altına alan ve tüm tahsilat süreçlerini tek panelden yöneten uçtan uca çözümler\n- Farklılaştırıcı özellik: Hiçbir sanal POS sağlayıcısına kilitlenmeden, dilediğin POS ile çalışabilme özgürlüğü ve toptancı-distribütör entegrasyonlarında komisyonun esnek şekilde konumlandırılabilmesi\n\nMarkamız; teknik terimlere boğulmadan, yalın bir dille konuşur, karmaşık finansal süreçleri sadeleştirir. Kullanıcıya hissettirdiği ana duygu; güven, kontrol ve esnekliktir.",
+    "technical_details": "Hedef segmentler: B2B yoğun işletmeler, Çoklu bayi/distribütör ağı olan yapılar, Periyodik tahsilat yapan yapılar; Değer önerisi: Esneklik, maliyet avantajı, güvenlik, kolay entegrasyon",
+    "tags": [
+      "konumlandırma",
+      "hedef kitle",
+      "marka stratejisi",
+      "b2b tahsilat",
+      "değer önerisi"
+    ],
+    "benefit_score": 0.95
+  },
+  {
+    "id": "PAY-004",
+    "feature_title": "Hedef Müşteri Segmentleri",
+    "category": "Pazar Segmentasyonu",
+    "content": "Platformun hedeflediği başlıca müşteri segmentleri şunlardır:\n\n1. Toptancılar ve Distribütörler\n- Gıda, hızlı tüketim, inşaat, tekstil, teknoloji gibi sektörlerde faaliyet gösteren toptancılar\n- Bölgesel veya ulusal distribütörlük yapıları\n- Bayi ağı üzerinden çalışan üretici firmalar\n\n2. Bayilik ve Franchise Ağları\n- Çok şubeli franchise zincirleri\n- Bölge bayileri ve alt bayilerle çalışan markalar\n\n3. Aidat ve Periyodik Tahsilat Yapan Yapılar\n- Site ve apartman yönetimleri\n- Spor salonları, dernekler, odalar, mesleki birlikler\n- Abonelik ve üyelik tabanlı iş modelleri (SaaS, kutu abonelikleri vb.)\n\n4. Kurumsal ve Orta Ölçekli İşletmeler\n- Farklı sanal POS’lar arasında maliyet optimizasyonu yapmak isteyen KOBİ ve kurumsal firmalar\n- ERP ve muhasebe entegrasyonu isteyen finans ekipleri\n\nHer segment için farklı senaryolara uyumlu; tahsilat yönlendirme, komisyon yönetimi, taksit/valör seçenekleri, SMS/QR/link ile tahsilat ve raporlama kurguları sunulur.",
+    "technical_details": "Segment bazlı ihtiyaç haritalama, Farklı use-case’lere uygun akışlar, Çoklu sektör desteği, ERP/Muhasebe entegrasyonu, Çok katmanlı bayi-distribütör yapıları",
+    "tags": [
+      "hedef müşteri",
+      "segmentasyon",
+      "toptancı",
+      "distribütör",
+      "aidat sistemi",
+      "abonelik"
+    ],
+    "benefit_score": 0.94
+  },
+  {
+    "id": "PAY-005",
+    "feature_title": "Genel Ürün Özeti",
+    "category": "Ürün Genel Bakış",
+    "content": "b2bmasterdemo; çoklu banka ve sanal POS yönetimi, toptancı-distribütör entegrasyonu, SMS/QR/link ile tahsilat, aidat ve periyodik ödeme, akıllı üye yönetimi, gelişmiş raporlama ve esnek entegrasyon kabiliyetlerini tek çatı altında birleştirir.\n\nAna bileşenler:\n- Ödeme Altyapısı: Kredi kartı ile tahsilat, çoklu sanal POS yönlendirme, POS seçimi özgürlüğü\n- Entegrasyon Katmanı: ERP, muhasebe, stok ve CRM sistemleriyle çift yönlü veri akışı\n- Üyelik ve Aidat Yönetimi: Periyodik ödeme planları, otomatik hatırlatmalar, geciken ödemelerin takibi\n- İletişim ve Bildirim: SMS, e-posta ve link tabanlı tahsilat çağrıları, KVKK uyumlu izin yönetimi\n- Raporlama ve Analitik: Günlük/haftalık/aylık gelir raporları, müşteri bazlı tahsilat geçmişi, POS bazlı komisyon analizi\n\nPlatform, hem teknik ekipler için API tabanlı entegrasyon imkânı sunar hem de teknik bilgisi kısıtlı kullanıcılar için hazır arayüzler ve bağımsız ödeme sayfaları sağlar.",
+    "technical_details": "Modüler mimari, REST/JSON API, Web arayüzü, Çoklu POS desteği, Bildirim servisleri, Planlı görevler, Güvenli logging",
+    "tags": [
+      "ürün özeti",
+      "tahsilat platformu",
+      "modüler mimari",
+      "api",
+      "b2b çözümler"
+    ],
+    "benefit_score": 0.96
+  },
+  {
+    "id": "PAY-006",
+    "feature_title": "Çoklu Banka ve Sanal POS Yönetimi",
+    "category": "Ödeme Altyapısı",
+    "content": "Platform, işletmelere aynı anda birden fazla banka ve sanal POS sağlayıcısı ile çalışma imkânı verir. Her işlem için en uygun komisyon oranına sahip POS seçilebilir, ödeme türüne (tek çekim, taksit, valörlü işlem vb.) göre akıllı yönlendirme yapılabilir.\n\nTemel İşleyiş:\n- İşletme, sahip olduğu veya anlaşmalı olduğu tüm sanal POS’ları sisteme tanımlar.\n- Her POS için komisyon oranları, taksit seçenekleri, valör süreleri ve para birimi gibi parametreler girilir.\n- Ödeme alırken sistem; işlem tutarı, kart türü, taksit talebi ve belirlenen kurallara göre en avantajlı POS’u otomatik seçebilir.\n\nBu sayede;\n- Ortalama komisyon maliyeti düşer\n- Banka veya POS sağlayıcı bağımlılığı ortadan kalkar\n- İşletme, farklı kampanya veya dönemsel oranları sistem üzerinden kolayca yönetebilir.",
+    "technical_details": "Çoklu POS tanımı, Kural tabanlı yönlendirme, POS bazlı komisyon matrisi, Banka/sağlayıcı bazlı profil, Dinamik POS seçimi",
+    "tags": [
+      "çoklu pos",
+      "komisyon optimizasyonu",
+      "banka entegrasyonu",
+      "ödeme yönlendirme",
+      "tahsilat maliyeti"
+    ],
+    "benefit_score": 0.98
+  },
+  {
+    "id": "PAY-007",
+    "feature_title": "Toptancı ve Distribütör Entegrasyonu",
+    "category": "B2B Entegrasyon",
+    "content": "Toptancı ve distribütör yapılarında, nihai müşteriden alınan ödemelerin hangi tarafın POS’u üzerinden geçeceği kritik bir karardır. b2bmasterdemo, bu noktada esnek entegrasyon senaryoları sunar.\n\nÖrnek Senaryo:\n- Bir gıda toptancısı, bayisine mal satar; bayi nihai müşteriden ödeme alır.\n- Ödeme, distribütörün veya üreticinin sanal POS’u üzerinden geçecek şekilde yönlendirilir.\n- Komisyon paylaşımı, iskonto, vade ve diğer finansal koşullar sözleşmeye göre sisteme tanımlanır.\n\nBu mimariyle:\n- Toptancı, distribütör ve bayi arasındaki finansal akış şeffaflaşır.\n- Komisyon maliyeti, ağ içinde en avantajlı noktaya konumlandırılabilir.\n- Tüm ödemeler; kimin POS’u üzerinden geçerse geçsin tek panelden izlenebilir, raporlanabilir.\n\nSonuç olarak; B2B ilişkilerde daha kârlı, öngörülebilir ve yönetilebilir bir tahsilat modeli sağlanır.",
+    "technical_details": "Çok taraflı ödeme akışı, POS sahipliği bilgisi, Komisyon paylaşım kuralları, Sözleşme tabanlı parametrik yapı, Bayi/distribütör hiyerarşisi",
+    "tags": [
+      "toptancı",
+      "distribütör",
+      "bayi ağı",
+      "komisyonsuz tahsilat",
+      "b2b ödeme akışı"
+    ],
+    "benefit_score": 0.96
+  },
+  {
+    "id": "PAY-008",
+    "feature_title": "Sanal POS Seçim Özgürlüğü ve Veri Sahipliği",
+    "category": "Ödeme Altyapısı",
+    "content": "b2bmasterdemo'da işletmeler, herhangi bir sanal POS sağlayıcısına kilitlenmeden, diledikleri sağlayıcı ile çalışabilir. POS tarafındaki kontrat ve banka ilişkisi işletmeye aittir; platform, yalnızca bu altyapıyı tek panelden yönetilebilir hale getirir.\n\nAvantajlar:\n- En uygun komisyon oranlarını sunan sağlayıcıyı seçebilme\n- Dönemsel olarak POS sağlayıcı değiştirebilme esnekliği\n- Farklı POS’ları senaryoya göre paralel kullanabilme\n\nVeri güvenliği açısından ise; işletmenin tahsilat verileri yalnızca işletmenin kontrollündedir. İşlem verileri, KVKK ve ilgili mevzuata uygun şekilde saklanır, üçüncü taraflarla paylaşılmaz. Böylece işletme, hem POS seçiminde özgür hem de veri sahipliğinde tam kontrollü olur.",
+    "technical_details": "Sağlayıcı bağımsız mimari, POS yönetim modülü, Veri saklama politikaları, KVKK uyumlu veri işleme, POS değiştirme sihirbazı",
+    "tags": [
+      "sanal pos özgürlüğü",
+      "veri güvenliği",
+      "provider bağımsız",
+      "kvkk",
+      "tahsilat verisi"
+    ],
+    "benefit_score": 0.95
+  },
+  {
+    "id": "PAY-009",
+    "feature_title": "SMS, QR Kod ve Link ile b2b master demo çözümleri",
+    "category": "Alternatif b2b master demo çözümleri Kanalları",
+    "content": "Platform, klasik ödeme sayfasına ek olarak SMS, QR kod ve ödeme linki üzerinden de tahsilat imkânı sunar. Bu sayede; fiziki pos cihazına, karmaşık entegrasyonlara veya manuel IBAN paylaşımına gerek kalmadan, her ortamda hızlı tahsilat yapılabilir.\n\nKullanım Senaryoları:\n- Müşteriye SMS ile ödeme linki gönderme\n- WhatsApp veya e-posta üzerinden tahsilat linki paylaşma\n- Faturanın veya fiziki broşürün üzerine QR kod koyarak ödeme alma\n\nFaydalar:\n- Müşteri sadece linke tıklar veya QR kodu okutur, ödeme sayfası otomatik açılır.\n- Banka hatası veya IBAN karışıklığı gibi manuel hatalar ortadan kalkar.\n- Tahsilatlar hızlanır, tahsilat takibi daha kolay hale gelir.\n\nTüm bu işlemler tek panelden takip edilir; hangi müşteriye, hangi kanaldan, ne zaman link gönderildiği ve ödeme durumları raporlanabilir.",
+    "technical_details": "Kısa link üretimi, QR kod jeneratörü, SMS/e-posta/WhatsApp entegrasyonu, Ödeme durumu takibi, Link bazlı raporlama",
+    "tags": [
+      "sms ile tahsilat",
+      "qr kod",
+      "ödeme linki",
+      "online tahsilat",
+      "pratik ödeme"
+    ],
+    "benefit_score": 0.96
+  },
+  {
+    "id": "PAY-010",
+    "feature_title": "Aidat ve Periyodik b2b master demo çözümleri Sistemi",
+    "category": "Periyodik Ödeme",
+    "content": "Aidat, üyelik ve periyodik ödemeler için tasarlanan modül; dernekler, site yönetimleri, spor salonları ve abonelik tabanlı işletmelere, düzenli ödemelerini dijital ve izlenebilir şekilde toplama imkânı verir.\n\nÖzellikler:\n- Üyeler için periyodik ödeme planı tanımlama (aylık, 3 aylık, yıllık vb.)\n- Otomatik ödeme hatırlatma SMS ve e-postaları\n- Geciken ödemelerin listelenmesi ve toplu aksiyon alma\n- Üye bazlı tahsilat geçmişi ve borç durumu takibi\n\nYararları:\n- Nakit akışı öngörülebilir hale gelir.\n- Elle liste tutma, manuel tahsilat ve kasa kayıtları ortadan kalkar.\n- Yönetim, hangi üyenin ne kadar borcu olduğunu tek ekrandan görebilir.",
+    "technical_details": "Periyodik takvim motoru, Hatırlatma şablonları, Üye/daire bazlı borç tablosu, Otomatik raporlar, Esnek aidat kalemi tanımı",
+    "tags": [
+      "aidat sistemi",
+      "periyodik tahsilat",
+      "site yönetimi",
+      "dernek",
+      "abonelik tahsilatı"
+    ],
+    "benefit_score": 0.94
+  },
+  {
+    "id": "PAY-011",
+    "feature_title": "Akıllı Üye Yönetimi ve Akreditasyon",
+    "category": "Üye Yönetimi ve Uyum",
+    "content": "Akıllı üye yönetimi modülü; ödeme yapan müşterilerinizi veya üyelerinizi farklı gruplara ayırmanıza, segment bazlı iletişim kurguları oluşturmanıza ve KVKK’ya uyumlu bir şekilde onay toplamaya olanak tanır.\n\nTemel Unsurlar:\n- Ödeme sırasında SMS ve e-posta doğrulama adımları\n- KVKK metni, kullanıcı sözleşmesi ve iletişim izinlerinin dijital ortamda sunulması\n- E-posta, SMS ve web push bildirim izinlerinin yasal çerçevede kayıt altına alınması\n\nAkıllı Segmentasyon:\n- Müşterileri ödeme sıklığı, sepet tutarı, ürün grubu veya konuma göre segmentlere ayırma\n- Her segmente farklı kampanya ve iletişim stratejisi uygulama\n\nBu sayede hem yasal uyumluluk sağlanır hem de tahsilat süreçleriyle entegre, hedefli ve ölçülebilir bir iletişim altyapısı kurulmuş olur.",
+    "technical_details": "Doğrulama akışları (SMS/e-posta), KVKK onay kayıtları, Segment bazlı etiketleme, Bildirim entegrasyonları, Audit log",
+    "tags": [
+      "üye yönetimi",
+      "akreditasyon",
+      "kvkk uyumu",
+      "segmentasyon",
+      "izinli pazarlama"
+    ],
+    "benefit_score": 0.93
+  },
+  {
+    "id": "PAY-012",
+    "feature_title": "Gelişmiş Raporlama ve Takip",
+    "category": "Raporlama ve Analitik",
+    "content": "b2bmasterdemo, tüm online tahsilatlarınızı gerçek zamanlı ve detaylı olarak takip etmenizi sağlayan gelişmiş raporlama araçları sunar.\n\nRaporlama Yetenekleri:\n- Günlük, haftalık ve aylık tahsilat raporları\n- POS bazlı komisyon, gelir ve maliyet analizleri\n- Müşteri/üye bazlı ödeme geçmişi, gecikmeler ve davranış trendleri\n- Bayi/distribütör bazlı performans raporları\n\nAnaliz Araçları:\n- Grafikler ve tablolar ile gelir trendi görselleştirme\n- Filtrelenebilir raporlar (tarih, POS, kanal, segment, ürün vb.)\n- Raporları PDF veya Excel’e aktararak muhasebe süreçlerine entegre edebilme\n\nBu modül sayesinde, sadece tahsilatları görmekle kalmaz; aynı zamanda fiyatlandırma, kampanya ve komisyon stratejilerinizi veriye dayalı olarak şekillendirebilirsiniz.",
+    "technical_details": "Veri ambarı tasarımı, Dashboard bileşenleri, Filtrelenebilir sorgular, PDF/Excel export, Yetki bazlı rapor görünümü",
+    "tags": [
+      "raporlama",
+      "tahsilat takibi",
+      "analitik",
+      "pos analizi",
+      "gelir trendi"
+    ],
+    "benefit_score": 0.95
+  },
+  {
+    "id": "PAY-013",
+    "feature_title": "Güvenlik, KVKK ve Uyum",
+    "category": "Güvenlik ve Uyum",
+    "content": "Platformun temel önceliklerinden biri; hassas ödeme verilerinin korunması, mevzuata uyum ve erişim kontrolüdür.\n\nGüvenlik Bileşenleri:\n- TLS ile şifrelenmiş iletişim\n- Kart verilerinin maskeleme ve tokenizasyon prensipleri\n- Rol bazlı yetkilendirme (RBAC) ile kullanıcıların sadece kendi yetki alanlarını görebilmesi\n- Ayrıntılı işlem logları ve audit trail\n\nUyum:\n- KVKK’ya uygun kişisel veri işleme ve saklama politikaları\n- Onay yönetimi ve metinlerin versiyon takibi\n- Gerekli durumlarda 3. taraf denetim ve raporlama desteği\n\nBütün bu katmanlar sayesinde; hem son kullanıcı hem de işletme, tahsilat süreçlerinin güvenli ve denetlenebilir olduğundan emin olur.",
+    "technical_details": "RBAC, Audit log, IP kısıtlama, Şifreleme standartları, KVKK uyum dokümantasyonu, Log arşivleme politikaları",
+    "tags": [
+      "güvenlik",
+      "kvkk",
+      "yetkilendirme",
+      "denetlenebilirlik",
+      "uyum"
+    ],
+    "benefit_score": 0.97
+  },
+  {
+    "id": "PAY-014",
+    "feature_title": "Teknik Mimarinin Genel Yapısı",
+    "category": "Teknik Mimari",
+    "content": "b2bmasterdemo; ölçeklenebilir, modüler ve entegrasyon odaklı bir mimari üzerine kuruludur.\n\nKatmanlar:\n- Sunum Katmanı: Web arayüzü, responsive tasarım, sade kullanıcı deneyimi\n- Uygulama Katmanı: İş kurallarını yöneten modüller (tahsilat akışı, POS seçimi, komisyon hesaplama, aidat planlama vb.)\n- Entegrasyon Katmanı: Banka, sanal POS, ERP, muhasebe, SMS/e-posta sağlayıcıları ile haberleşen servisler\n- Veri Katmanı: İşlem kayıtları, müşteri/üye verileri, loglar ve raporlama için optimize edilmiş veri yapıları\n\nÖne Çıkan Özellikler:\n- API odaklı tasarım (tahsilat, üyelik, raporlama uçları)\n- Esnek konfigürasyon yapısı (POS kuralları, komisyon matrisleri, aidat planları)\n- Bağımsız ölçeklenebilen servisler (raporlama, bildirim, ödeme yönlendirme)\n\nBu yapı; hem yüksek işlem hacmine hem de farklı sektörlerden gelen çok çeşitli kullanım senaryolarına yanıt verebilecek esnekliği sağlar.",
+    "technical_details": "RESTful API, Mikroservis/servis odaklı yaklaşım (tasarımsal), Konfigürasyon tabanlı iş kuralları, Entegrasyon adaptörleri, Log ve metrik toplama",
+    "tags": [
+      "teknik mimari",
+      "api",
+      "modüler yapı",
+      "entegrasyon katmanı",
+      "ölçeklenebilirlik"
+    ],
+    "benefit_score": 0.92
+  },
+  {
+    "id": "PAY-015",
+    "feature_title": "RAG Tabanlı b2b master demo çözümleri Asistanı için İçerik Kapsamı",
+    "category": "Yapay Zeka ve RAG",
+    "content": "RAG tabanlı tahsilat asistanı, bu JSON içerisindeki tüm misyon, vizyon, ürün özellikleri, kullanım senaryoları, teknik detaylar ve uyum başlıklarını kullanarak kullanıcılara doğal dilde yanıtlar üretebilir.\n\nAsistanın Cevap Verebileceği Soru Tipleri:\n- \"b2bmasterdemo'nun misyonu nedir?\"\n- \"Toptancı ve distribütör entegrasyonu nasıl çalışıyor?\"\n- \"Sanal POS sağlayıcımı istediğim zaman değiştirebilir miyim?\"\n- \"Aidat ve periyodik tahsilat modülü hangi sorunları çözüyor?\"\n- \"SMS, QR ve link ile tahsilatın bana avantajı ne?\"\n- \"KVKK ve güvenlik tarafında neler yapıyorsunuz?\"\n\nBu JSON, RAG sistemine gömülecek temel bilgi kaynağı olarak kurgulanmıştır. Her kayıtta; kullanıcı dostu, açıklayıcı bir \"content\", teknik ekiplere yönelik özet \"technical_details\" ve arama/filtreleme için \"tags\" alanları yer almaktadır. Böylece hem semantik hem de klasik filtre bazlı sorgular desteklenebilir.",
+    "technical_details": "RAG context kaynağı, Kısa/uzun metin karışımı, Alan bazlı filtreleme (category, tags), Soru-cevap senaryoları için zengin içerik",
+    "tags": [
+      "rag",
+      "tahsilat asistanı",
+      "embedding",
+      "bilgi tabanı",
+      "soru cevap"
+    ],
+    "benefit_score": 0.99
+  },
+  {
+    "id": "PAY-016",
+    "feature_title": "Sık Sorulan Sorular - Genel",
+    "category": "SSS",
+    "content": "Bu kayıt, platform hakkında genel sık sorulan soruları ve kısa cevaplarını içerir.\n\nSoru: b2bmasterdemo kimler için uygundur?\nCevap: Toptancılar, distribütörler, bayilik ağları, franchise zincirleri, dernek ve site yönetimleri, abonelik ve üyelik tabanlı iş modelleri, kurumsal ve orta ölçekli işletmeler için uygundur.\n\nSoru: Sadece tek bir sanal POS’um varsa yine de kullanabilir miyim?\nCevap: Evet. Tek POS ile başlayıp daha sonra yeni POS sağlayıcıları ekleyebilirsiniz. Platform, tek POS senaryosunda da raporlama, aidat yönetimi ve SMS/QR/link ile tahsilat gibi pek çok katma değerli özellik sunar.\n\nSoru: POS sözleşmeleri kimin üzerinde olur?\nCevap: POS sözleşmeleri her zaman işletmenin kendi üzerindedir. Platform, bu POS’ları sadece tek ekranda yönetilebilir hale getirir.\n\nSoru: Platform SaaS mı, on-premise mi çalışır?\nCevap: Varsayılan senaryo SaaS kullanımdır. Büyük ölçekli kurumsal müşteriler için proje bazlı on-premise veya hibrit modeller de değerlendirilebilir.",
+    "technical_details": "Kapsam: Hedef kitle, Kullanım koşulları, POS sahipliği, Dağıtım modeli (SaaS/on-prem); Kullanım: Genel SSS yanıtları için RAG kaynağı",
+    "tags": [
+      "sss",
+      "genel sorular",
+      "uygunluk",
+      "pos sahipliği",
+      "saas"
+    ],
+    "benefit_score": 0.93
+  },
+  {
+    "id": "PAY-017",
+    "feature_title": "Sık Sorulan Sorular - Fiyatlandırma ve Komisyon",
+    "category": "SSS",
+    "content": "Bu kayıt, fiyatlandırma, komisyon ve maliyetlerle ilgili tipik soruları açıklar. (Tam rakamlar yerine yapının mantığı anlatılır.)\n\nSoru: b2bmasterdemo'nun lisans ücreti nasıl çalışır?\nCevap: Genellikle sabit aylık platform ücreti + işlem hacmine göre kademeli ücretlendirme modeli tercih edilir. Net rakamlar, sözleşmede ve teklif dokümanında belirtilir.\n\nSoru: Banka komisyonları size mi yoksa bankaya mı ödenir?\nCevap: Banka komisyonları doğrudan bankaya veya sanal POS sağlayıcısına ödenir. Platform, bu komisyonları optimize etmenize ve raporlamanıza yardımcı olur ancak banka komisyonu tahsil etmez.\n\nSoru: Sizin ek bir komisyonunuz var mı?\nCevap: İş modeline göre, sadece platform kullanımına yönelik sabit/işlem bazlı ücretler olabilir. Bunu tüzel sözleşme ve tekliflerde netleştirmeniz gerekir; buradaki RAG içeriği sadece yapıyı tarif eder.\n\nSoru: Komisyon oranlarını kim belirler?\nCevap: Komisyon oranları bankalar, ödeme kuruluşları veya distribütör sözleşmelerine göre belirlenir. Platform, bu oranların sisteme tanımlanmasını ve akıllı seçim kurallarıyla kullanılmasını sağlar.",
+    "technical_details": "Fiyatlandırma modeli: Sabit + hacim bazlı; Komisyon akışı: Banka/ödeme kuruluşu; Platform rolü: Raporlama ve optimizasyon",
+    "tags": [
+      "fiyatlandırma",
+      "komisyon",
+      "ücretlendirme",
+      "maliyet yapısı",
+      "sss fiyat"
+    ],
+    "benefit_score": 0.9
+  },
+  {
+    "id": "PAY-018",
+    "feature_title": "Sık Sorulan Sorular - Entegrasyon",
+    "category": "SSS",
+    "content": "Bu kayıt, ERP, muhasebe, stok ve diğer sistemlerle entegrasyonla ilgili soruları kapsar.\n\nSoru: Hangi ERP veya muhasebe programlarıyla entegre olabiliyorsunuz?\nCevap: Genellikle REST API veya dosya (Excel/CSV) entegrasyonunu destekleyen tüm ERP ve muhasebe yazılımlarıyla çalışılabilir. Özel entegrasyonlar için proje bazlı çalışma yapılır.\n\nSoru: Entegrasyon zor mu, IT ekibine ne kadar iş düşer?\nCevap: Basit senaryolarda, hazır şablonlar ve webhook’larla minimum geliştirme ile entegrasyon yapılabilir. Gelişmiş senaryolarda, IT ekipleriyle birlikte detaylı akış tasarlanır.\n\nSoru: Entegrasyon zorunlu mu?\nCevap: Hayır. Entegrasyon olmadan, sadece web paneli üzerinden de tahsilat, aidat takibi ve raporlama yapılabilir. Entegrasyon sadece veri akışını otomatikleştirir.\n\nSoru: API dokümanı var mı?\nCevap: Evet, tahsilat, üyelik, raporlama gibi ana fonksiyonlar için REST tabanlı API uçları bulunur. Bu kayıt, API detaylarını değil, entegrasyonun genel mantığını açıklar.",
+    "technical_details": "Entegrasyon yöntemleri: REST API, Webhook, Dosya (CSV/Excel) import/export; Hedef sistemler: ERP, muhasebe, CRM, stok; Zorunluluk: Opsiyonel",
+    "tags": [
+      "entegrasyon",
+      "erp entegrasyonu",
+      "muhasebe",
+      "api",
+      "sss entegrasyon"
+    ],
+    "benefit_score": 0.91
+  },
+  {
+    "id": "PAY-019",
+    "feature_title": "Kullanım Senaryosu - Gıda Toptancısı",
+    "category": "Use-case",
+    "content": "Bu senaryo, bir gıda toptancısının b2bmasterdemo'yu kullanarak bayi tahsilatlarını nasıl yönettiğini anlatır.\n\nDurum:\n- Toptancı, Türkiye genelinde 150 bayiye satış yapıyor.\n- Ödemeler, çoğunlukla vadeli ve farklı POS’lar üzerinden alınıyor.\n- Komisyon oranları, bankalara ve vadeye göre değişken.\n\nÇözüm:\n- Tüm sanal POS’lar platforma tanımlanıyor.\n- Bayiler için tahsilat linkleri oluşturuluyor ve SMS/WhatsApp ile gönderiliyor.\n- Bazı ödemeler, distribütör veya üretici POS’u üzerinden geçecek şekilde kurgulanıyor.\n\nSonuç:\n- Ortalama komisyon maliyeti düşüyor.\n- Hangi bayinin ne kadar borcu ve hangi tarihte ödeme yaptığı tek panelden görülüyor.\n- Muhasebe, tahsilat verilerini günlük olarak ERP’ye otomatik alıyor.\n\nBu kayıt, RAG asistanının \"Gıda toptancısıyım, nasıl kullanırım?\" gibi sorulara cevap verirken kullanabileceği detaylı bir iş senaryosudur.",
+    "technical_details": "Sektör: Gıda toptancılığı; Bileşenler: Çoklu POS, SMS/link tahsilat, raporlama, ERP entegrasyonu; Hedef: Komisyon optimizasyonu ve borç takibi",
+    "tags": [
+      "use case",
+      "gıda toptancısı",
+      "bayi tahsilatı",
+      "komisyon yönetimi",
+      "erp entegrasyonu"
+    ],
+    "benefit_score": 0.92
+  },
+  {
+    "id": "PAY-020",
+    "feature_title": "Kullanım Senaryosu - Site Yönetimi",
+    "category": "Use-case",
+    "content": "Bu senaryo, bir site/apartman yönetiminin aidat tahsilatını dijitalleştirmesini anlatır.\n\nDurum:\n- 300 dairelik bir sitede aidatlar elden veya havaleyle toplanıyor.\n- Kim ne zaman ödedi, kim ne kadar borçlu takibi Excel’de tutuluyor ve sık sık hata oluyor.\n\nÇözüm:\n- Tüm daireler sisteme üye olarak tanımlanıyor.\n- Her daire için aidat planı oluşturuluyor (örneğin aylık sabit tutar).\n- Aidat günlerinde, sistem otomatik olarak SMS/e-posta ile ödeme linki gönderiyor.\n- Ödeme yapıldığında, sistem borcu otomatik kapatıyor ve raporlara işliyor.\n\nSonuç:\n- Yönetim, geciken ödemeleri tek ekranda görebiliyor.\n- Daire sakinleri, telefon veya bilgisayarlarından kartla kolayca ödeme yapıyor.\n- Kasa, defter ve manuel liste ihtiyacı ortadan kalkıyor.",
+    "technical_details": "Modül: Aidat ve periyodik tahsilat; Bileşenler: Üye/daire kaydı, Plan tanımı, Otomatik hatırlatma, Link ile ödeme, Borç raporu",
+    "tags": [
+      "use case",
+      "site yönetimi",
+      "aidat tahsilatı",
+      "periyodik ödeme",
+      "sms hatırlatma"
+    ],
+    "benefit_score": 0.93
+  },
+  {
+    "id": "PAY-021",
+    "feature_title": "Kullanım Senaryosu - SaaS ve Abonelik Modeli",
+    "category": "Use-case",
+    "content": "Bu senaryo, bir SaaS şirketinin müşteri abonelik tahsilatlarını yönetmesini örnekler.\n\nDurum:\n- SaaS şirketi, aylık ve yıllık abonelik paketleri satıyor.\n- Müşteri sayısı büyüdükçe manuel faturalandırma ve tahsilat takibi zorlaşıyor.\n\nÇözüm:\n- Müşteriler platformda üye olarak tanımlanıyor.\n- Her müşteri için abonelik planı, ödeme periyodu ve tutar belirleniyor.\n- Tahsilatlar, dönem başında otomatik olarak tetikleniyor veya müşteriye link ile yönlendiriliyor.\n- Ödemesi geciken aboneler, otomatik hatırlatma akışına alınıyor.\n\nSonuç:\n- Düzenli gelir akışı daha net görülebiliyor.\n- Churn (abonelik iptali) riski, gecikmeler erken görüldüğü için azalıyor.\n- Finans ve müşteri başarı ekipleri aynı veriye bakarak aksiyon alabiliyor.",
+    "technical_details": "Modül: Abonelik/aidat, Bileşenler: Plan yönetimi, Otomatik ödeme tetikleme (senaryoya bağlı), Gecikme raporu, Hatırlatma akışları",
+    "tags": [
+      "use case",
+      "saas",
+      "abonelik",
+      "düzenli gelir",
+      "periyodik tahsilat"
+    ],
+    "benefit_score": 0.92
+  },
+  {
+    "id": "PAY-022",
+    "feature_title": "Onboarding - Başlangıç Adımları",
+    "category": "Kullanım Kılavuzu",
+    "content": "Yeni bir işletme, b2bmasterdemo'yu kullanmaya başlamak istediğinde tipik onboarding adımları şunlardır:\n\n1. Hesap Oluşturma ve Sözleşme\n- İşletme bilgileri, vergi numarası ve yetkili kişi bilgileri ile kayıt alınır.\n- Gerekli sözleşmeler (platform kullanım, KVKK, aydınlatma metni vb.) dijital ortamda onaylanır.\n\n2. Sanal POS ve Banka Bilgileri Tanımı\n- Mevcut POS’lar sisteme eklenir; sağlayıcı adı, komisyon oranları, para birimi, taksit seçenekleri girilir.\n- Gerekirse yeni POS başvuruları için yönlendirme yapılır.\n\n3. İş Modeline Göre Modül Seçimi\n- Toptancı/distribütör ise: B2B entegrasyon ve bayi modülleri aktif edilir.\n- Site/dernek ise: Aidat ve periyodik tahsilat modülü öne çıkarılır.\n- SaaS/abonelik ise: Abonelik plan yönetimi ekranları yapılandırılır.\n\n4. İlk Test Tahsilatları\n- Küçük tutarlı test ödemeleri ile akış doğrulanır.\n- Raporlama ve entegrasyon ayarları gözden geçirilir.\n\nBu kayıt, asistanın \"Nasıl başlarım?\" tarzı sorulara cevap vermesinde kullanılır.",
+    "technical_details": "Adımlar: Kayıt, Sözleşme onayı, POS tanımı, Modül seçimi, Test tahsilat, Rapor kontrolü; Rollerin dahil edilmesi: Finans, IT, Operasyon",
+    "tags": [
+      "onboarding",
+      "kurulum",
+      "ilk adımlar",
+      "hesap açma",
+      "pos tanımı"
+    ],
+    "benefit_score": 0.9
+  },
+  {
+    "id": "PAY-023",
+    "feature_title": "Operasyonel Roller ve Sorumluluklar",
+    "category": "Kullanım Kılavuzu",
+    "content": "Platformun etkin kullanımı için işletme içinde bazı roller ve sorumluluklar netleştirilmelidir.\n\nÖrnek Roller:\n- Finans Sorumlusu: Komisyon oranları, POS anlaşmaları, raporlama ve mutabakat süreçlerinden sorumludur.\n- Operasyon/Yönetim: Aidat planları, bayi/distribütör ilişkileri, tahsilat politikalarının belirlenmesi.\n- IT/Entegrasyon Ekibi: ERP, muhasebe ve diğer sistemlerle entegrasyonun uygulanması ve bakımından sorumlu.\n- Destek Ekibi: Son kullanıcılardan (bayi, üye, müşteri) gelen \"ödeme yapamıyorum\" vb. talepleri platform üzerinden takip eder.\n\nAsistan, bu kayıt üzerinden \"Ben finans tarafındayım, bana ne faydası var?\" gibi rol bazlı sorulara daha net cevap verebilir.",
+    "technical_details": "Roller: Finans, Operasyon, IT, Destek; Sorumluluk alanları: POS ve komisyon yönetimi, planlama, entegrasyon, son kullanıcı desteği",
+    "tags": [
+      "roller",
+      "sorumluluklar",
+      "finans",
+      "it",
+      "operasyon"
+    ],
+    "benefit_score": 0.88
+  },
+  {
+    "id": "PAY-024",
+    "feature_title": "Hata ve Sorun Senaryoları - Ödeme Reddedildi",
+    "category": "Sorun Giderme",
+    "content": "Bu kayıt, kullanıcının sık karşılaştığı \"ödeme reddedildi\" senaryosunun olası nedenlerini ve izlenecek adımları açıklar.\n\nOlası Nedenler:\n- Kart sahibinin bankası tarafından limit veya güvenlik engeli\n- Yanlış kart bilgisi (son kullanma tarihi, CVC vb.)\n- POS sağlayıcı tarafında geçici kesinti\n- 3D Secure adımında hatalı giriş veya kullanıcı iptali\n\nİzlenecek Adımlar:\n1. Kullanıcıya hata mesajı sade bir dille gösterilir (teknik kodlar gizlenebilir veya sadeleştirilebilir).\n2. Mümkünse farklı kart veya farklı POS üzerinden tekrar denenmesi önerilir.\n3. Sorun devam ederse, ilgili POS sağlayıcısının hata kodu kaydedilir ve finans/IT ekibi bilgilendirilir.\n\nRAG asistanı, bu kayıt yardımıyla \"Ödemem neden reddedildi?\" ya da \"Kart hatası alıyorum\" gibi soruları teknik detaya boğmadan açıklayabilir.",
+    "technical_details": "Kaynaklar: POS hata kodları, 3D Secure akışı, Banka reddetme sebepleri; Aksiyon: Tekrar deneme, Farklı POS kullanımı, Log inceleme",
+    "tags": [
+      "hata",
+      "ödeme reddedildi",
+      "3d secure",
+      "sorun giderme",
+      "pos hatası"
+    ],
+    "benefit_score": 0.89
+  },
+  {
+    "id": "PAY-025",
+    "feature_title": "Hata ve Sorun Senaryoları - Link Çalışmıyor",
+    "category": "Sorun Giderme",
+    "content": "Bu kayıt, ödeme linki veya QR kodu ile ilgili tipik sorunları açıklar.\n\nOlası Nedenler:\n- Linkin son kullanım tarihi geçmiş olabilir.\n- Link bir kez kullanıldıktan sonra güvenlik nedeniyle devre dışı bırakılmış olabilir.\n- Yanlışlıkla eksik veya bozuk kopyalanmış bir link gönderilmiş olabilir.\n- Kullanıcının tarayıcısında güvenlik/çerez ayarları nedeniyle sayfa açılmıyor olabilir.\n\nİzlenecek Adımlar:\n1. Kullanıcıdan hata ekranının ekran görüntüsü veya metin halini paylaşması istenir.\n2. Sistemden ilgili linkin durumu kontrol edilir (aktif/pasif, tarih, tutar).\n3. Gerekirse yeni bir link üretilerek kullanıcıya gönderilir.\n\nAsistan, bu kayıt üzerinden \"Ödeme linkine tıklıyorum, açılmıyor\" tarzı sorulara yönlendirici cevaplar verebilir.",
+    "technical_details": "Link durumu: Aktif/Pasif, Tek kullanımlık/çok kullanımlık; Parametreler: Son kullanım tarihi, Tutar, Müşteri ID; Aksiyon: Yeniden link üretme, Log inceleme",
+    "tags": [
+      "ödeme linki",
+      "qr kod sorunu",
+      "link çalışmıyor",
+      "sorun giderme"
+    ],
+    "benefit_score": 0.88
+  },
+  {
+    "id": "PAY-026",
+    "feature_title": "Güvenlik Detayları - Veri Saklama ve Maskeleme",
+    "category": "Güvenlik ve Uyum",
+    "content": "Bu kayıt, özellikle teknik veya güvenlik odaklı sorulara cevap vermek için veri saklama ve maskeleme yaklaşımını anlatır.\n\nİlkeler:\n- Kart numaraları tam haliyle uygulama içinde hiçbir zaman görüntülenmez; yalnızca son 4 hane gösterilir.\n- CVV/CVC kodları asla saklanmaz.\n- Kişisel veriler (ad, soyad, iletişim bilgisi vb.) KVKK’ya uygun olarak işlenir, sadece gerekli süre boyunca saklanır.\n\nMaskeleme Örnekleri:\n- 5453 1234 5678 9010 yerine 5453 **** **** 9010\n- Telefon numarası: +90 5** *** ** 34\n\nAsistan, bu kayıtla \"Verilerim güvende mi?\", \"Kart bilgilerim sizde saklanıyor mu?\" gibi endişeleri gideren tutarlı açıklamalar üretebilir.",
+    "technical_details": "Maskeleme politikaları, Saklama süreleri (KVKK), Kart verisiyle ilgili kısıtlar, Loglarda PII/PCI saklamama prensibi",
+    "tags": [
+      "veri saklama",
+      "maskeleme",
+      "pci",
+      "kvkk",
+      "güvenlik detay"
+    ],
+    "benefit_score": 0.95
+  },
+  {
+    "id": "PAY-027",
+    "feature_title": "Rapor Türleri ve Kullanım Amaçları",
+    "category": "Raporlama ve Analitik",
+    "content": "Bu kayıt, platformda tipik olarak kullanılan rapor türlerini ve ne işe yaradıklarını açıklar.\n\nÖrnek Raporlar:\n- Günlük Tahsilat Özeti: Gün içinde yapılan tüm tahsilatların toplamı, POS ve kanal bazlı kırılımlar.\n- Aylık Gelir Raporu: Aylık bazda gelir trendi, geçen yıl/ay ile karşılaştırma.\n- Geciken Aidat Listesi: Vadesi geçmiş ödemeler, borç tutarı ve gün sayısı.\n- POS Bazlı Komisyon Raporu: Hangi POS üzerinden ne kadar işlem geçmiş, toplam komisyon maliyeti ne olmuş.\n\nKullanım Amaçları:\n- Finansal planlama ve bütçeleme\n- Kampanya ve komisyon pazarlığı kararları\n- Risk ve tahsilat performans analizi\n\nAsistan, bu kayıt ile \"Hangi raporla neyi görürüm?\" gibi sorulara detaylı yanıt verebilir.",
+    "technical_details": "Rapor parametreleri: Tarih aralığı, POS, kanal, müşteri/üye, bayi/distribütör; Çıktı formatları: Ekran, PDF, Excel",
+    "tags": [
+      "rapor türleri",
+      "finansal raporlama",
+      "geciken ödemeler",
+      "komisyon raporu"
+    ],
+    "benefit_score": 0.9
+  },
+  {
+    "id": "PAY-028",
+    "feature_title": "Kanal Türleri ve Kullanım Örnekleri",
+    "category": "Ürün Genel Bakış",
+    "content": "Platformda yer alan başlıca tahsilat kanalları ve ne zaman hangisinin tercih edileceği açıklanır.\n\nKanal Türleri:\n- Web Ödeme Sayfası: Müşterilerin kendi kendine ödeme yaptığı klasik sayfa.\n- SMS/Link ile Ödeme: Özellikle birebir iletişim ve hızlı tahsilat gereken durumlarda.\n- QR Kod ile Ödeme: Fatura, broşür veya fiziksel ortamlar için pratik çözüm.\n\nÖrnek Kullanımlar:\n- Bayi tahsilatında: SMS veya WhatsApp ile link gönderimi.\n- Aidat tahsilatında: Aylık dönem başında SMS/e-posta linki.\n- Etkinlik veya bağış toplamada: Afişlere QR kod basılması.\n\nAsistan, \"Hangi kanalı kullanmalıyım?\" sorusuna bu kaydı referans alarak bağlama uygun öneriler sunabilir.",
+    "technical_details": "Kanal konfigürasyonu, Şablon yönetimi (SMS/e-posta metni), QR kod üretimi, Link yaşam süresi ayarları",
+    "tags": [
+      "kanallar",
+      "web ödeme",
+      "sms",
+      "qr kod",
+      "link ile tahsilat"
+    ],
+    "benefit_score": 0.89
+  },
+  {
+    "id": "PAY-029",
+    "feature_title": "Rol Bazlı Erişim Örnekleri",
+    "category": "Güvenlik ve Uyum",
+    "content": "Bu kayıt, rol bazlı erişimin pratikte nasıl kurgulanabileceğini somut örneklerle anlatır.\n\nÖrnek Roller:\n- Yönetici: Tüm raporları görür, POS ve komisyon ayarlarına erişebilir, kullanıcı ekleyip yetki atayabilir.\n- Finans Kullanıcısı: Tahsilat raporlarını, POS performansını ve mutabakat ekranlarını görür; ancak kullanıcı yönetimi yapamaz.\n- Operasyon Kullanıcısı: Üye/bayi kayıtlarını, aidat planlarını ve ödeme hatırlatma ayarlarını yönetir; finansal detay raporlara kısıtlı erişir.\n- Destek Kullanıcısı: Müşteri/bayi bazlı ödeme geçmişini görebilir, ancak komisyon veya POS yapılandırmasına erişemez.\n\nAsistan, \"Ben destek tarafındayım, neden bazı ekranları göremiyorum?\" gibi sorulara bu kayıtla tutarlı cevaplar üretebilir.",
+    "technical_details": "RBAC kurgusu, Yetki profilleri, Menü ve rapor bazlı yetki haritalama, Audit log ile kim ne yaptı takibi",
+    "tags": [
+      "rol bazlı erişim",
+      "yetkilendirme örnekleri",
+      "rbac",
+      "güvenlik politikası"
+    ],
+    "benefit_score": 0.91
+  },
+  {
+    "id": "PAY-030",
+    "feature_title": "KVKK ve İzin Yönetimi Senaryoları",
+    "category": "Güvenlik ve Uyum",
+    "content": "Bu kayıt, KVKK kapsamında izin ve aydınlatma süreçlerinin tahsilat akışına nasıl entegre edildiğini senaryolarla açıklar.\n\nSenaryo 1: İlk Tahsilat\n- Kullanıcı ödeme sayfasına geldiğinde, KVKK aydınlatma metni ve gizlilik politikası linkleri görünür.\n- Kullanıcı, ödeme öncesinde bu metinleri okuyup onay kutucuklarını işaretler.\n\nSenaryo 2: İletişim İzni\n- Ödeme sırasında, \"kampanya ve bilgilendirme amaçlı e-posta/SMS almak istiyorum\" şeklinde ayrı bir onay alanı sunulur.\n- Bu izin, daha sonra segmentasyon ve kampanya amaçlı kullanılmak üzere sistemde saklanır.\n\nSenaryo 3: İzin Güncelleme\n- Kullanıcı, dilediği zaman iletişim izinlerini geri çekebilir veya güncelleyebilir.\n\nAsistan, \"KVKK açısından ne yapıyorsunuz?\", \"İletişim iznimi nasıl yönetiyorsunuz?\" sorularına bu kayıt üzerinden detaylı ve uyumlu yanıtlar verebilir.",
+    "technical_details": "Onay kayıtları, Metin versiyon takibi, İzin tipi bazlı saklama (zorunlu/opsiyonel), İzin iptal süreci",
+    "tags": [
+      "kvkk",
+      "aydınlatma metni",
+      "iletişim izni",
+      "onay yönetimi"
+    ],
+    "benefit_score": 0.94
+  },
+  {
+    "id": "PAY-031",
+    "feature_title": "Performans ve Ölçeklenebilirlik Yaklaşımı",
+    "category": "Teknik Mimari",
+    "content": "Bu kayıt, yoğun tahsilat dönemlerinde (kampanya, aidat dönemi vb.) performans ve ölçeklenebilirlik stratejisini özetler.\n\nYaklaşım:\n- Kritik servislerin (ödeme yönlendirme, link üretimi, raporlama) ayrı katmanlar halinde tasarlanması.\n- Artan yük altında eşzamanlı istekleri karşılamak için yatay ölçeklemeye uygun mimari.\n- Raporlama işlemlerinin, canlı tahsilat trafiğini yormayacak şekilde optimize edilmesi (örneğin arka plan görevleri).\n\nAsistan, teknik kullanıcılara \"Yoğun zamanda sistem çöker mi, nasıl ölçekleniyor?\" gibi sorularda bu kaydı referans alabilir.",
+    "technical_details": "Yatay ölçekleme, Arka plan işleyiciler, Önbellekleme katmanı (konsept), Okuma/yazma ayrımı (konsept düzeyinde açıklama)",
+    "tags": [
+      "performans",
+      "ölçeklenebilirlik",
+      "yük yönetimi",
+      "kampanya dönemi"
+    ],
+    "benefit_score": 0.9
+  },
+  {
+    "id": "PAY-032",
+    "feature_title": "Veri Modeli - Temel Nesneler",
+    "category": "Teknik Detay",
+    "content": "Bu kayıt, konsept düzeyinde temel veri nesnelerini tanımlar. (Gerçek tablo şemalarını değil, iş kavramlarını anlatır.)\n\nTemel Nesneler:\n- Müşteri/Üye: Tahsilat alınan kişi veya kurum; iletişim bilgileri ve izin kayıtları ile birlikte tutulur.\n- POS Profili: Her bir banka veya sanal POS sağlayıcısı için tanımlanan parametre seti (komisyon, para birimi vb.).\n- Tahsilat İşlemi: Karttan çekilen her ödeme; tutar, tarih, POS, kanal, durum bilgilerini içerir.\n- Plan/Aidat Planı: Periyodik ödeme gerektiren yapılar için oluşturulan takvim ve tutar bilgisi.\n- Link/QR Kaydı: Üretilen her ödeme linki veya QR kodunun durumu, son kullanma tarihi ve ilişkili müşteri bilgisi.\n\nBu kavramsal model, RAG asistanının \"Sistemde hangi tür kayıtlar var?\" sorusuna üst düzey bir cevap vermesine yarar.",
+    "technical_details": "Nesne ilişkileri: Müşteri-Plan, Müşteri-Tahsilat, Tahsilat-POS, Link-Tahsilat; Teknik: Kimliklendirme için ID alanları, Zaman damgaları",
+    "tags": [
+      "veri modeli",
+      "müşteri kaydı",
+      "tahsilat kaydı",
+      "pos profili",
+      "aidat planı"
+    ],
+    "benefit_score": 0.9
+  },
+  {
+    "id": "PAY-033",
+    "feature_title": "Sözleşme ve Hukuki Çerçeve Özeti",
+    "category": "Şirket Kimliği",
+    "content": "Bu kayıt, hukuki metinlerin tamamını barındırmaz ancak genel çerçeveyi tarif eder.\n\nBaşlıca Belgeler:\n- Platform Kullanım Sözleşmesi: İşletmenin platformu hangi koşullarda kullanacağını, sorumluluk paylaşımını ve hizmet kapsamını düzenler.\n- KVKK Aydınlatma Metni ve Açık Rıza Metni: Kişisel verilerin hangi amaçlarla işlendiği, saklama süreleri ve haklar.\n- Gizlilik Politikası: Verilerin korunması, üçüncü taraflarla paylaşım koşulları.\n\nAsistan, \"Sizinle nasıl bir sözleşme imzalıyorum?\" gibi genel sorularda bu kaydı kullanarak yönlendirici, ama hukuken bağlayıcı detay vermeden yanıt üretebilir ve kullanıcının asıl hukuki dokümana yönlendirilmesi gerektiğini belirtebilir.",
+    "technical_details": "Sözleşme kapsamları, Hukuki referanslar (KVKK), Müşteri hakları, Platform sorumluluk sınırları (genel)",
+    "tags": [
+      "sözleşme",
+      "hukuki çerçeve",
+      "gizlilik",
+      "kvkk belgeleri"
+    ],
+    "benefit_score": 0.86
+  },
+  {
+    "id": "PAY-034",
+    "feature_title": "Kullanıcı Deneyimi İlkeleri",
+    "category": "Ürün Genel Bakış",
+    "content": "Bu kayıt, platformun kullanıcı deneyimi (UX) yaklaşımını özetler.\n\nİlkeler:\n- Basitlik: Finansal süreçler karmaşık olsa bile arayüzler sade ve anlaşılır tutulur.\n- Tutarlılık: Aynı tip işlemler (tahsilat, rapor, planlama) benzer ekran desenleriyle sunulur.\n- Geri Bildirim: Kullanıcı her aksiyonda (ödeme, kaydet, sil) net bir geri bildirim alır.\n- Hata Önleme: Form doğrulamaları ve ön kontrollerle kullanıcı hataları en aza indirilir.\n\nAsistan, \"Arayüz neden bu kadar sade?\" veya \"Neden bu alan zorunlu?\" gibi UX odaklı sorulara bu kaydı kullanarak yanıt verebilir.",
+    "technical_details": "Form doğrulama, Bildirim/toast mekanizmaları, Hata mesajı standardizasyonu, Mobil uyumlu tasarım",
+    "tags": [
+      "ux",
+      "kullanıcı deneyimi",
+      "tasarım ilkeleri",
+      "form doğrulama"
+    ],
+    "benefit_score": 0.85
+  },
+  {
+    "id": "PAY-035",
+    "feature_title": "Destek ve Eğitim Yaklaşımı",
+    "category": "Kullanım Kılavuzu",
+    "content": "Bu kayıt, müşterilere sunulan destek ve eğitim yaklaşımını özetler (kanallar ve SLA gerçek sözleşmeye göre değişebilir, burada konsept anlatılır).\n\nDestek Kanalları:\n- E-posta ve ticket sistemi\n- Belirli paketler için telefon veya canlı destek\n\nEğitim:\n- İlk kurulumda online demo ve eğitim oturumu\n- Sık sorulan işlemler için kısa video veya yardım dokümanları\n\nAsistan, \"Destek alabiliyor muyum?\", \"Bize eğitim veriliyor mu?\" gibi sorulara bu kaydı referans alarak genel çerçevede yanıt verebilir.",
+    "technical_details": "Destek süreçleri: Ticket açma, Önceliklendirme; Eğitim: İlk kurulum eğitimi, Yardım dokümanları; SLA: Genel anlatım, kesin rakam verilmez",
+    "tags": [
+      "destek",
+      "eğitim",
+      "müşteri hizmetleri",
+      "yardım dokümanı"
+    ],
+    "benefit_score": 0.84
+  },
+  {
+    "id": "PAY-036",
+    "feature_title": "Terimler Sözlüğü - Temel Kavramlar",
+    "category": "Terimler Sözlüğü",
+    "content": "Bu kayıt, platformda sık geçen bazı temel terimlerin kısa açıklamalarını içerir.\n\n- Tahsilat: Müşteriden veya üyeden ödeme alınması işlemi.\n- Sanal POS: Fiziksel pos cihazı olmadan, internet üzerinden karttan tahsilat yapılmasını sağlayan altyapı.\n- Komisyon: Banka veya ödeme kuruluşu tarafından, her tahsilat işlemi için alınan yüzdesel veya sabit ücret.\n- Aidat: Genellikle periyodik (aylık/yıllık) alınan, üyelik veya site yönetimi ücreti.\n- RAG: Retrieval Augmented Generation; harici bilgi kaynaklarını kullanarak daha isabetli yanıtlar üreten yapay zeka yaklaşımı.\n\nAsistan, \"Sanal POS ne demek?\", \"RAG nedir?\" gibi terim odaklı sorulara bu kaydı referans alarak hızlı tanımlar verebilir.",
+    "technical_details": "Kapsam: İş kavramları, Ödeme terimleri, Yapay zeka kavramı (RAG); Amaç: Terim düzeyinde netlik",
+    "tags": [
+      "terimler sözlüğü",
+      "sanal pos nedir",
+      "rag nedir",
+      "komisyon nedir"
+    ],
+    "benefit_score": 0.9
+  },
+  {
+    "id": "PAY-037",
+    "feature_title": "Terimler Sözlüğü - Teknik Kavramlar",
+    "category": "Terimler Sözlüğü",
+    "content": "Bu kayıt, daha teknik kullanıcılar için bazı kavramları açıklar.\n\n- API: Uygulama Programlama Arayüzü; farklı sistemlerin birbiriyle konuşmasını sağlayan yapı.\n- Webhook: Belirli olaylar gerçekleştiğinde (örneğin tahsilat tamamlandığında) başka bir sisteme otomatik bildirim göndermek için kullanılan mekanizma.\n- RBAC: Role Based Access Control; kullanıcıların rollerine göre hangi ekran ve verilere erişeceğini belirleyen yetkilendirme yöntemi.\n- Tokenizasyon: Hassas kart verilerinin güvenlik için rastgele üretilmiş token’larla temsil edilmesi.\n\nAsistan, \"Webhook desteğiniz var mı?\", \"RBAC ne anlama geliyor?\" gibi teknik soruları bu kayıt üzerinden netleştirebilir.",
+    "technical_details": "Teknik kavramların yüksek seviye tanımı; Altyapı: REST API, Webhook, RBAC, Tokenizasyon",
+    "tags": [
+      "api nedir",
+      "webhook nedir",
+      "rbac nedir",
+      "tokenizasyon"
+    ],
+    "benefit_score": 0.88
+  },
+  {
+    "id": "PAY-038",
+    "feature_title": "Sık Sorulan Sorular - RAG Asistanı",
+    "category": "Yapay Zeka ve RAG",
+    "content": "Bu kayıt, sitenin sağ altındaki RAG tabanlı asistanla ilgili tipik soruları cevaplar (backend kısmı size ait olmakla beraber, kavramsal açıklama yapılır).\n\nSoru: Bu asistan gerçek işlemlerimi görebiliyor mu?\nCevap: Varsayılan senaryoda, asistan daha çok dokümanlar, yardım metinleri ve sık sorulan sorular üzerinden yanıt üretir. Gerçek işlem verilerine erişim verilecekse bu açıkça belirtilmeli ve güvenlik/izin mekanizması kurgulanmalıdır.\n\nSoru: Asistanın verdiği cevaplar hukuken bağlayıcı mı?\nCevap: Hayır. Asistan, yol gösterici ve bilgilendirici amaçlıdır. Sözleşme, fiyat ve hukuki konularda nihai referans resmi dokümanlardır.\n\nSoru: Yanlış cevap verirse ne olacak?\nCevap: Kullanıcı geri bildirimleri ve loglar üzerinden asistan iyileştirilebilir. Kritik kararlar için her zaman insan onayı önerilir.",
+    "technical_details": "RAG veri kaynağı: Bu JSON ve ek dokümanlar; Sınırlamalar: Sözleşme/fiyat/hukuki konularda nihai referans değil; İyileştirme: Feedback döngüleri",
+    "tags": [
+      "rag asistan",
+      "sohbet botu",
+      "sınırlamalar",
+      "yanlış cevap",
+      "sorumluluk"
+    ],
+    "benefit_score": 0.9
+  },
+  {
+    "id": "PAY-039",
+    "feature_title": "Uyumluluk - Log ve Denetim İzleri",
+    "category": "Güvenlik ve Uyum",
+    "content": "Bu kayıt, işlem log’larının ve denetim izlerinin neden ve nasıl tutulduğunu açıklar.\n\nKapsam:\n- Giriş/çıkış kayıtları\n- Tahsilat işlemleri ve durum değişiklikleri\n- Yetki ve rol değişiklikleri\n- Kritik ayarlarda (POS, komisyon, plan) yapılan değişiklikler\n\nAmaç:\n- Güvenlik ihlali veya hatalı işlem şüphesinde geriye dönük inceleme yapabilmek\n- İç ve dış denetimlerde şeffaf bir iz bırakmak\n\nAsistan, \"Kim benim kaydımı değiştirmiş?\", \"Bu rapor neden böyle çıktı?\" gibi sorularda log ve denetim kavramına referans verebilir.",
+    "technical_details": "Log türleri, Saklama süreleri, Erişim yetkileri, Denetim (audit) raporları; PII içermeyen loglama ilkeleri",
+    "tags": [
+      "log",
+      "audit",
+      "denetim izi",
+      "güvenlik logları"
+    ],
+    "benefit_score": 0.91
+  },
+  {
+    "id": "PAY-040",
+    "feature_title": "RAG için Önerilen Embedding Stratejisi (Meta)",
+    "category": "Yapay Zeka ve RAG",
+    "content": "Bu kayıt, bu JSON’un RAG sistemine nasıl gömüleceği ile ilgili rehber niteliğinde meta bilgiler içerir.\n\nÖneriler:\n- Her kaydı ayrı bir doküman olarak ele alın; `id`, `feature_title`, `category`, `tags` alanlarını metadata olarak saklayın.\n- Asıl metin alanı olarak `content` + gerekirse `technical_details` birleştirilerek embedding’e gönderilebilir.\n- Sorgu öncesi, kategori veya tag bazlı filtreleme uygulanarak daha odaklı sonuçlar elde edilebilir (örn. sadece \"Sorun Giderme\" veya sadece \"Use-case\").\n\nBu meta kayıt, asistanın çalışma biçimini etkilemez; RAG altyapısını kurarken geliştiriciler için rehber niteliğindedir.",
+    "technical_details": "Embedding alanları: content + technical_details; Metadata: id, feature_title, category, tags, benefit_score; Filtreleme: category, tags; Rerank: benefit_score",
+    "tags": [
+      "embedding stratejisi",
+      "rag dizayn",
+      "metadata",
+      "filtreleme"
+    ],
+    "benefit_score": 1.0
+  }
+]

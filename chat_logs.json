@@ -1,0 +1,87 @@
+[
+  {
+    "question": "sence aidat olayınız avantajlı mı?",
+    "answer": "Bu bilgi dokümanda yok.",
+    "top_feature_title": "Kullanım Senaryosu - Site Yönetimi",
+    "top_category": "Use-case",
+    "top_tags": [
+      "use case",
+      "site yönetimi",
+      "aidat tahsilatı",
+      "periyodik ödeme",
+      "sms hatırlatma"
+    ],
+    "created_at": "2026-03-13T13:59:36.651584Z"
+  },
+  {
+    "question": "aidat ile alakalı bir projeniz varmı?",
+    "answer": "Evet, aidat tahsilatı ile ilgili bir projemiz var. Bu proje, site/apartman yönetimlerinin aidat tahsilatını dijitalleştirmesini sağlıyor. Tüm daireler sisteme üye olarak tanımlanıyor ve her daire için aidat planı oluşturuluyor. Aidat günlerinde otomatik olarak SMS veya e-posta ile ödeme linki gönderiliyor. Ödeme yapıldığında, sistem borcu otomatik olarak kapatıyor ve raporlara işliyor. Bu sayede yönetim geciken ödemeleri tek ekranda görebilir ve daire sakinleri kolayca ödeme yapabilir.",
+    "top_feature_title": "Kullanım Senaryosu - Site Yönetimi",
+    "top_category": "Use-case",
+    "top_tags": [
+      "use case",
+      "site yönetimi",
+      "aidat tahsilatı",
+      "periyodik ödeme",
+      "sms hatırlatma"
+    ],
+    "created_at": "2026-03-13T13:59:52.036447Z"
+  },
+  {
+    "question": "b2bmasterdemo ile çoklu sanal POS kullanmanın bana somut faydası ne?",
+    "answer": "b2bmasterdemo ile çoklu sanal POS kullanmanın somut faydaları arasında daha fazla esneklik ve işlem kolaylığı sayılabilir. Farklı sanal POS sağlayıcıları arasından seçim yapabilir ve ihtiyaçlarınıza en uygun olanı kullanarak işlemlerinizi gerçekleştirebilirsiniz. Ayrıca, bu sistemin modüler yapısı sayesinde farklı sektörlerdeki kullanım senaryolarına kolayca uyum sağlayabilir, tahsilat süreçlerinizi daha verimli yönetebilirsiniz. Bu da kullanıcı deneyimini artırarak, tahsilat işlemlerinin daha hızlı ve güvenli bir şekilde gerçekleşmesini sağlar.",
+    "top_feature_title": "RAG Tabanlı b2b master demo çözümleri Asistanı için İçerik Kapsamı",
+    "top_category": "Yapay Zeka ve RAG",
+    "top_tags": [
+      "rag",
+      "tahsilat asistanı",
+      "embedding",
+      "bilgi tabanı",
+      "soru cevap"
+    ],
+    "created_at": "2026-03-13T14:07:15.660348Z"
+  },
+  {
+    "question": "ödemeleri size nasıl yapıyoruz",
+    "answer": "Bu bilgi dokümanda yok.",
+    "top_feature_title": "Genel Ürün Özeti",
+    "top_category": "Ürün Genel Bakış",
+    "top_tags": [
+      "ürün özeti",
+      "tahsilat platformu",
+      "modüler mimari",
+      "api",
+      "b2b çözümler"
+    ],
+    "created_at": "2026-03-13T14:55:42.506508Z"
+  },
+  {
+    "question": "hedef müşteri segmentiniz nedir",
+    "answer": "Platformumuzun hedef müşteri segmentleri şunlardır:\n\n1. **Toptancılar ve Distribütörler**: Gıda, inşaat, teknoloji gibi çeşitli sektörlerde faaliyet gösterenler.\n2. **Bayilik ve Franchise Ağları**: Çok şubeli franchise zincirleri ve bölge bayileri olan markalar.\n3. **Aidat ve Periyodik Tahsilat Yapan Yapılar**: Site yönetimleri, spor salonları, dernekler gibi yapıların yanı sıra abonelik modeliyle çalışan işletmeler.\n4. **Kurumsal ve Orta Ölçekli İşletmeler**: Mali optimizasyon ve entegrasyon arayan KOBİ ve kurumsal firmalar.\n\nHer segment için farklı tahsilat ve yönetim ihtiyaçlarına uygun çözümler sunulmaktadır.",
+    "top_feature_title": "Hedef Müşteri Segmentleri",
+    "top_category": "Pazar Segmentasyonu",
+    "top_tags": [
+      "hedef müşteri",
+      "segmentasyon",
+      "toptancı",
+      "distribütör",
+      "aidat sistemi",
+      "abonelik"
+    ],
+    "created_at": "2026-03-13T14:56:37.778014Z"
+  },
+  {
+    "question": "akıllı üye yönetiminden bahsedebilir misin",
+    "answer": "Akıllı üye yönetimi, apartman veya site yönetimlerine yönelik bir çözüm sunar. Bu sistemde, tüm daireler üye olarak kaydedilir ve her daire için otomatik aidat planları oluşturulur. Aidat günlerinde, sistem otomatik olarak SMS veya e-posta ile ödeme linki gönderir. Ödeme yapıldığında, sistem borcu otomatik kapatır ve raporlara işler. Bu sayede, yönetim geciken ödemeleri tek ekranda görebilir ve daire sakinleri kolayca ödeme yapabilir. Kasa, defter ve manuel liste ihtiyacı ortadan kalkar.",
+    "top_feature_title": "Kullanım Senaryosu - Site Yönetimi",
+    "top_category": "Use-case",
+    "top_tags": [
+      "use case",
+      "site yönetimi",
+      "aidat tahsilatı",
+      "periyodik ödeme",
+      "sms hatırlatma"
+    ],
+    "created_at": "2026-03-13T16:26:35.754321Z"
+  }
+]
